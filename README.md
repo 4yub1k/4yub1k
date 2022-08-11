@@ -54,7 +54,7 @@
 ![icons8-kali-linux-32](https://user-images.githubusercontent.com/45902447/184095050-efea20c1-16be-4c29-af4e-079a4d6a4776.png)
 ![blackarch-logo](https://user-images.githubusercontent.com/45902447/184095350-00a3f913-5e8e-4b94-a824-798a20900f7e.png)
 
-
+_These are the tools and languages i've worked with, haven't mentioned all but will love to discuss. And open to learn new tools or programming languages 🙂_ 
 
 
 <!--
