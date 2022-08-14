@@ -57,17 +57,68 @@
 _These are the tools and languages i've worked with, haven't mentioned all but will love to discuss. And open to learn new tools or programming languages 🙂_ 
 
 
-<!--
-**4yub1k/4yub1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <h1>Organized GIT Repositories</h1>
+</p>
 
-Here are some ideas to get you started:
+>NOTE : **My personal use Projects/scripts are not included.**
+<h2>Django/DjangoREST</h2>
+<uo>
+  <li><a href="https://github.com/4yub1k/country-django-api">Countries information </a> </li>
+  <li><a href="https://github.com/4yub1k/job-portal-django">Jobs Portal</a> </li>
+  <li><a href="https://github.com/4yub1k/real-estate-project">Real E-state</a> </li>
+  <li><a href="https://github.com/4yub1k/mcsq-webspage-djangot">E Learning (MCQS)</a> </li>
+  <li><a href="https://github.com/4yub1k/django-rest-api">Blog</a> </li>
+  <li><a href="https://github.com/4yub1k/captive-portal">Captive Portal</a> </li>
+  <li><a href="https://github.com/4yub1k/movie-rest-api">Movies DB</a> </li>
+  <li><a href="https://salahuddin.org">My Portfolio</a> </li>
+</uo>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Python/PyQt5/Tkinter</h2>
+<uo>
+  <li><a href="https://github.com/4yub1k/database-dummy-data">Dummy DB Generator</a> </li>
+  <li><a href="https://github.com/4yub1k/scan-site">Site Scanner/Enumeration</a> </li>
+  <li><a href="https://github.com/4yub1k/Extending-C">Ctypes/C-PythonAPI Module</a> </li>
+  <li><a href="https://github.com/4yub1k/user-random-details">User Data Generator</a> </li>
+  <li><a href="https://github.com/4yub1k/Machine-learnings">Machine Learning</a> </li>
+  <li><a href="https://github.com/4yub1k/ip_icmp">IP/ICMP Manual Packet Craft</a> </li>
+  <li><a href="https://github.com/4yub1k/tcp_ip">IP/TCP Manual Packet Craft</a> </li>
+  <li><a href="https://github.com/4yub1k/Python-Wifi-Password-Code-Gui-">Wifi Key Reveal</a> </li>
+  <li><a href="https://github.com/4yub1k/Python-WebsiteBlocker.py">Block Webpage PC</a> </li>
+  <li><a href="https://github.com/4yub1k/dump_check">Hex Dump Check</a> </li>
+</uo>
+
+<h2>Data Structures and Algorithms</h2>
+<uo>
+  <li><a href="https://github.com/4yub1k/DSA">Learn DSA</a> </li>
+</uo>
+
+<h2>Snippets/Practice Codes</h2>
+<uo>
+  <li><a href="https://github.com/4yub1k/django-snippets">Django/DjangoREST</a> </li>
+  <li><a href="https://github.com/4yub1k/javascript-practice-code">JavaScript</a> </li>
+</uo>
+
+<h2>JavaScript</h2>
+<uo>
+  <li><a href="https://github.com/4yub1k/javascript-practice-code/tree/main/1-%20Guess%20number">Guess Number</a> </li>
+  <li><a href="https://github.com/4yub1k/javascript-practice-code/tree/main/3-%20Pig%20game">Dice Game</a> </li>
+</uo>
+
+
+<h2>C</h2>
+<uo>
+  <li><a href="https://github.com/4yub1k/learn-c">Learn C</a> </li>
+  <li><a href="https://github.com/4yub1k/Extending-C">Ctypes/C-PythonAPI Module</a> </li>
+</uo>
+
+<h2>Assembly</h2>
+<uo>
+  <li><a href="https://github.com/4yub1k/3-bit-calculator">3-bit Calculator</a> </li>
+</uo>
+
+<h2>Matlab</h2>
+<uo>
+  <li><a href="https://github.com/4yub1k/Tictactoe">TicTacToe</a> </li>
+  <li><a href="https://github.com/4yub1k/Lambda-iteration">Lambda-iteration</a> </li>
+</uo>
