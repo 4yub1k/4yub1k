@@ -67,7 +67,7 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/country-django-api">Countries information </a> </li>
   <li><a href="https://github.com/4yub1k/job-portal-django">Jobs Portal</a> </li>
   <li><a href="https://github.com/4yub1k/real-estate-project">Real E-state</a> </li>
-  <li><a href="https://github.com/4yub1k/mcsq-webspage-djangot">E Learning (MCQS)</a> </li>
+  <li><a href="https://github.com/4yub1k/mcsq-webspage-django">E Learning (MCQS)</a> </li>
   <li><a href="https://github.com/4yub1k/django-rest-api">Blog</a> </li>
   <li><a href="https://github.com/4yub1k/captive-portal">Captive Portal</a> </li>
   <li><a href="https://github.com/4yub1k/movie-rest-api">Movies DB</a> </li>
