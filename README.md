@@ -64,14 +64,14 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 >NOTE : **My personal use Projects/scripts are not included.**
 <h2>Django/DjangoREST</h2>
 <uo>
+  <li><a href="https://github.com/4yub1k/movie-rest-api">Movies DB</a> </li>
   <li><a href="https://github.com/4yub1k/country-django-api">Countries information </a> </li>
+  <li><a href="https://salahuddin.org">My Portfolio</a> </li>
   <li><a href="https://github.com/4yub1k/job-portal-django">Jobs Portal</a> </li>
   <li><a href="https://github.com/4yub1k/real-estate-project">Real E-state</a> </li>
   <li><a href="https://github.com/4yub1k/mcsq-webspage-django">E Learning (MCQS)</a> </li>
   <li><a href="https://github.com/4yub1k/django-rest-api">Blog</a> </li>
   <li><a href="https://github.com/4yub1k/captive-portal">Captive Portal</a> </li>
-  <li><a href="https://github.com/4yub1k/movie-rest-api">Movies DB</a> </li>
-  <li><a href="https://salahuddin.org">My Portfolio</a> </li>
 </uo>
 
 <h2>Python/PyQt5/Tkinter</h2>
@@ -86,6 +86,8 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/Python-Wifi-Password-Code-Gui-">Wifi Key Reveal</a> </li>
   <li><a href="https://github.com/4yub1k/Python-WebsiteBlocker.py">Block Webpage PC</a> </li>
   <li><a href="https://github.com/4yub1k/dump_check">Hex Dump Check</a> </li>
+  <li><a href="https://salahuddin.org/work/12">Corona Live/a> </li>
+  
 </uo>
 
 <h2>Data Structures and Algorithms</h2>
@@ -110,6 +112,8 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 <uo>
   <li><a href="https://github.com/4yub1k/learn-c">Learn C</a> </li>
   <li><a href="https://github.com/4yub1k/Extending-C">Ctypes/C-PythonAPI Module</a> </li>
+  <li><a href="https://salahuddin.org/work/11">APFC </li>
+ 
 </uo>
 
 <h2>Assembly</h2>
