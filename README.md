@@ -86,7 +86,7 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/Python-Wifi-Password-Code-Gui-">Wifi Key Reveal</a> </li>
   <li><a href="https://github.com/4yub1k/Python-WebsiteBlocker.py">Block Webpage PC</a> </li>
   <li><a href="https://github.com/4yub1k/dump_check">Hex Dump Check</a> </li>
-  <li><a href="https://salahuddin.org/work/12">Corona Live/a> </li>
+  <li><a href="https://salahuddin.org/work/12">Corona Live</a> </li>
   
 </uo>
 
