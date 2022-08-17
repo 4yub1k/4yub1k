@@ -101,6 +101,11 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/javascript-practice-code">JavaScript</a> </li>
 </uo>
 
+<h2>Linux Server</h2>
+<uo>
+  <li><a href="https://github.com/4yub1k/linux-server-setup">Server/SSH/NginX</a> </li>
+</uo>
+
 <h2>JavaScript</h2>
 <uo>
   <li><a href="https://github.com/4yub1k/javascript-practice-code/tree/main/1-%20Guess%20number">Guess Number</a> </li>
