@@ -19,7 +19,7 @@
 ![icons8-microsoft-excel-32](https://user-images.githubusercontent.com/45902447/184095940-2b9537ec-ed75-4eb5-8eb4-63f83e3b48c5.png)
 ![icons8-docker-32](https://user-images.githubusercontent.com/45902447/184097448-082612d1-8a34-415d-b547-296d9fd5d618.png)
 
-##### Tools and Languages:
+#### Tools and Languages:
 ![python-32](https://user-images.githubusercontent.com/45902447/183979822-27f9f41f-63fe-47fa-8709-2cfa6714a936.png)
 ![django-32](https://user-images.githubusercontent.com/45902447/183980088-6288e8b5-fd51-4ef6-97b8-368110676858.png)
 ![matlab-32](https://user-images.githubusercontent.com/45902447/183980369-6368495c-ef11-4385-b6dc-ca991da7a4fb.png)
@@ -58,11 +58,11 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 
 
 <p align="center">
-    <h1>Organized GIT Repositories</h1>
+    <h2>Organized GIT Repositories</h2>
 </p>
 
 >NOTE : **My personal use Projects/scripts are not included.**
-<h2>Django/DjangoREST</h2>
+<h3>Django/DjangoREST</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/movie-rest-api">Movies DB</a> </li>
   <li><a href="https://github.com/4yub1k/country-django-api">Countries information </a> </li>
@@ -74,7 +74,7 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/captive-portal">Captive Portal</a> </li>
 </uo>
 
-<h2>Python/PyQt5/Tkinter</h2>
+<h3>Python/PyQt5/Tkinter</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/database-dummy-data">Dummy DB Generator</a> </li>
   <li><a href="https://github.com/4yub1k/scan-site">Site Scanner/Enumeration</a> </li>
@@ -90,30 +90,30 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   
 </uo>
 
-<h2>Data Structures and Algorithms</h2>
+<h3>Data Structures and Algorithms</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/DSA">Learn DSA</a> </li>
 </uo>
 
-<h2>Snippets/Practice Codes</h2>
+<h3>Snippets/Practice Codes</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/django-snippets">Django/DjangoREST</a> </li>
   <li><a href="https://github.com/4yub1k/javascript-practice-code">JavaScript</a> </li>
 </uo>
 
-<h2>Linux Server</h2>
+<h3>Linux Server</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/linux-server-setup">Server/SSH/NginX</a> </li>
 </uo>
 
-<h2>JavaScript</h2>
+<h3>JavaScript</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/javascript-practice-code/tree/main/1-%20Guess%20number">Guess Number</a> </li>
   <li><a href="https://github.com/4yub1k/javascript-practice-code/tree/main/3-%20Pig%20game">Dice Game</a> </li>
 </uo>
 
 
-<h2>C</h2>
+<h3>C</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/learn-c">Learn C</a> </li>
   <li><a href="https://github.com/4yub1k/Extending-C">Ctypes/C-PythonAPI Module</a> </li>
@@ -121,12 +121,12 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
  
 </uo>
 
-<h2>Assembly</h2>
+<h3>Assembly</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/3-bit-calculator">3-bit Calculator</a> </li>
 </uo>
 
-<h2>Matlab</h2>
+<h3>Matlab</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/Tictactoe">TicTacToe</a> </li>
   <li><a href="https://github.com/4yub1k/Lambda-iteration">Lambda-iteration</a> </li>
