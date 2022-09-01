@@ -4,6 +4,12 @@
   <img src="https://user-images.githubusercontent.com/45902447/184103258-66ab3270-aa8d-4c9c-85a5-fe6d4cb5c831.png">
 </p>
 
+<p align="center">
+  <a href="https://github.com/4yub1k"><img alt="Github-@4yub1k-green" src="https://user-images.githubusercontent.com/45902447/187991424-e4bcb85e-6ef4-48c5-9de4-131e51649ca2.svg"><a>
+    <a href="https://salahuddin.org/"><img alt="WebPage-salahuddin.org-purple" src="https://user-images.githubusercontent.com/45902447/187993359-5b5da711-7383-4e7e-b621-f63fb6e0ffb6.svg"><a>
+  <a href="https://www.hackerrank.com/4yub1k"><img alt="HackerRank-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/187992171-7382b9d6-6c83-4de4-adac-0055f9a10116.svg"><a>
+
+</p>
 
 #### Currently using:
 ![python-32](https://user-images.githubusercontent.com/45902447/183979822-27f9f41f-63fe-47fa-8709-2cfa6714a936.png)
@@ -76,6 +82,7 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 
 <h3>Python/PyQt5/Tkinter</h3>
 <uo>
+  <li><a href="https://github.com/4yub1k/simple-bar">Simple Bar</a> </li>
   <li><a href="https://github.com/4yub1k/database-dummy-data">Dummy DB Generator</a> </li>
   <li><a href="https://github.com/4yub1k/scan-site">Site Scanner/Enumeration</a> </li>
   <li><a href="https://github.com/4yub1k/Extending-C">Ctypes/C-PythonAPI Module</a> </li>
@@ -87,7 +94,11 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/Python-WebsiteBlocker.py">Block Webpage PC</a> </li>
   <li><a href="https://github.com/4yub1k/dump_check">Hex Dump Check</a> </li>
   <li><a href="https://salahuddin.org/work/12">Corona Live</a> </li>
-  
+</uo>
+
+<h3>Hackerrank</h3>
+<uo>
+  <li><a href="https://github.com/4yub1k/hackerrank">Solutions</a></li>
 </uo>
 
 <h3>Data Structures and Algorithms</h3>
