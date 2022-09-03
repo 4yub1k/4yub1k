@@ -8,7 +8,6 @@
   <a href="https://github.com/4yub1k"><img alt="Github-@4yub1k-green" src="https://user-images.githubusercontent.com/45902447/187991424-e4bcb85e-6ef4-48c5-9de4-131e51649ca2.svg"><a>
     <a href="https://salahuddin.org/"><img alt="WebPage-salahuddin.org-purple" src="https://user-images.githubusercontent.com/45902447/187993359-5b5da711-7383-4e7e-b621-f63fb6e0ffb6.svg"><a>
   <a href="https://www.hackerrank.com/4yub1k"><img alt="HackerRank-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/187992171-7382b9d6-6c83-4de4-adac-0055f9a10116.svg"><a>
-
 </p>
 
 #### Currently using:
@@ -129,6 +128,7 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/learn-c">Learn C</a> </li>
   <li><a href="https://github.com/4yub1k/Extending-C">Ctypes/C-PythonAPI Module</a> </li>
   <li><a href="https://salahuddin.org/work/11">APFC </li>
+  <li><a href="https://github.com/4yub1k/learn-c/blob/main/ticTac.c">TicTacToe</li>
  
 </uo>
 
@@ -142,3 +142,7 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/Tictactoe">TicTacToe</a> </li>
   <li><a href="https://github.com/4yub1k/Lambda-iteration">Lambda-iteration</a> </li>
 </uo>
+
+<p align="center">
+  <img height='0' src="https://komarev.com/ghpvc/?username=4yub1k&color=lightgrey">
+</p>
