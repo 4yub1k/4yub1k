@@ -23,6 +23,8 @@
 ![icons8-github-32](https://user-images.githubusercontent.com/45902447/184094942-eba6d5ca-1a6d-40c8-9afe-d8f599dfec6b.png)
 ![icons8-microsoft-excel-32](https://user-images.githubusercontent.com/45902447/184095940-2b9537ec-ed75-4eb5-8eb4-63f83e3b48c5.png)
 ![icons8-docker-32](https://user-images.githubusercontent.com/45902447/184097448-082612d1-8a34-415d-b547-296d9fd5d618.png)
+![power BI](https://user-images.githubusercontent.com/45902447/189513591-1aa5c1a3-0be0-4c19-b6ee-aef8e6e633bd.png)
+![R language](https://user-images.githubusercontent.com/45902447/189513651-2467a782-58c1-4bf6-aeaf-78622b33529a.png)
 
 #### Tools and Languages:
 ![python-32](https://user-images.githubusercontent.com/45902447/183979822-27f9f41f-63fe-47fa-8709-2cfa6714a936.png)
@@ -51,7 +53,8 @@
 ![icons8-microsoft-excel-32](https://user-images.githubusercontent.com/45902447/184095940-2b9537ec-ed75-4eb5-8eb4-63f83e3b48c5.png)
 ![icons8-docker-32](https://user-images.githubusercontent.com/45902447/184097448-082612d1-8a34-415d-b547-296d9fd5d618.png)
 ![icons8-adobe-photoshop-32](https://user-images.githubusercontent.com/45902447/184098029-b7c60423-a1c2-4bed-a632-35568e53e578.png)
-
+![power BI](https://user-images.githubusercontent.com/45902447/189513591-1aa5c1a3-0be0-4c19-b6ee-aef8e6e633bd.png)
+![R language](https://user-images.githubusercontent.com/45902447/189513651-2467a782-58c1-4bf6-aeaf-78622b33529a.png)
 
 #### Operating Systems:
 ![icons8-windows-10-32](https://user-images.githubusercontent.com/45902447/184094940-0ece50b8-7fa0-4342-aff3-f810eb4f3153.png)
