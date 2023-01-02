@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45902447/184103258-66ab3270-aa8d-4c9c-85a5-fe6d4cb5c831.png">
+  <ul>
+    <li>My name is <b>Salah Ud Din</b> a.k.a <b>Ayubi</b>.</li>
+    <li>I'm Electrical Power Engineer, who is busy in learning programming.</li>
+    <li>Love's to code, and more code.</li>
+    <li>My Hobbies inlcude Coding, E-Games, Photograpy, Ethical hacking, Reading and Learning about new technology, and Physics 🙂.</li>
+  </ul>
 </p>
 
 <p align="center">
