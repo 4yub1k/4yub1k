@@ -12,9 +12,11 @@
 <p align="center">
   <a href="https://github.com/4yub1k"><img alt="Github-@4yub1k-green" src="https://user-images.githubusercontent.com/45902447/187991424-e4bcb85e-6ef4-48c5-9de4-131e51649ca2.svg"><a>
     <a href="https://salahuddin.org/"><img alt="WebPage-salahuddin.org-purple" src="https://user-images.githubusercontent.com/45902447/187993359-5b5da711-7383-4e7e-b621-f63fb6e0ffb6.svg"><a>
+    <a href="https://medium.com/@4yub1k"><img alt="Medium-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/210225975-40f54bad-7608-4ba9-9a73-847174b74d58.svg"><a>
   <a href="https://www.hackerrank.com/4yub1k"><img alt="HackerRank-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/187992171-7382b9d6-6c83-4de4-adac-0055f9a10116.svg"><a>
+<a href="https://www.youtube.com/@nerdyayubi"><img alt="HackerRank-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/210226235-437c2141-ffd1-49ea-84b6-3c16b69b6d98.svg"><a>
 </p>
-
+  
 #### Currently using:
 ![python-32](https://user-images.githubusercontent.com/45902447/183979822-27f9f41f-63fe-47fa-8709-2cfa6714a936.png)
 ![django-32](https://user-images.githubusercontent.com/45902447/183980088-6288e8b5-fd51-4ef6-97b8-368110676858.png)
