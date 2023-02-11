@@ -5,7 +5,7 @@
     <li>My name is <b>Salah Ud Din</b> a.k.a <b>Ayubi</b>.</li>
     <li>I'm Electrical Power Engineer, who is busy in learning programming.</li>
     <li>Love's to code, and more code.</li>
-    <li>My Hobbies inlcude Coding, E-Games, Photograpy, Ethical hacking, Reading and Learning about new technology, and Physics 🙂.</li>
+    <li>My Hobbies inlcude Coding, E-Games, Photography, Ethical hacking, Reading and Learning about new technology, and Physics 🙂.</li>
   </ul>
 </p>
 
@@ -79,6 +79,7 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 >NOTE : **My personal use Projects/scripts are not included.**
 <h3>Django/DjangoREST</h3>
 <uo>
+<li><a href="https://github.com/4yub1k/djblog">My Blog - Clean & Simple </a> </li>
   <li><a href="https://github.com/4yub1k/movie-rest-api">Movies DB</a> </li>
   <li><a href="https://github.com/4yub1k/country-django-api">Countries information </a> </li>
   <li><a href="https://salahuddin.org">My Portfolio</a> </li>
