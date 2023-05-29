@@ -81,6 +81,8 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 <h3>Django/DjangoREST</h3>
 <uo>
 <li><a href="https://github.com/4yub1k/djblog">My Blog - Clean & Simple </a> </li>
+  <li><a href="https://github.com/4yub1k/drf_api">DRF Poll API</a> </li>
+  <li><a href="https://github.com/4yub1k/djAI">Django OpenAI</a> </li>
   <li><a href="https://github.com/4yub1k/movie-rest-api">Movies DB</a> </li>
   <li><a href="https://github.com/4yub1k/country-django-api">Countries information </a> </li>
   <li><a href="https://salahuddin.org">My Portfolio</a> </li>
@@ -91,8 +93,9 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/captive-portal">Captive Portal</a> </li>
 </uo>
 
-<h3>Python/PyQt5/Tkinter</h3>
+<h3>Python/PyQt5/Tkinter/Kivy</h3>
 <uo>
+  <li><a href="https://github.com/4yub1k/kivy-openai">Open AI Kivy Mobile App</a> </li>
   <li><a href="https://github.com/4yub1k/simple-bar">Simple Bar</a> </li>
   <li><a href="https://github.com/4yub1k/database-dummy-data">Dummy DB Generator</a> </li>
   <li><a href="https://github.com/4yub1k/scan-site">Site Scanner/Enumeration</a> </li>
@@ -110,11 +113,6 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 <h3>Hackerrank</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/hackerrank">Solutions</a></li>
-</uo>
-
-<h3>Data Structures and Algorithms</h3>
-<uo>
-  <li><a href="https://github.com/4yub1k/DSA">Learn DSA</a> </li>
 </uo>
 
 <h3>Snippets/Practice Codes</h3>
@@ -156,5 +154,5 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 </uo>
 
 <p align="center">
-  <img height='0' src="https://komarev.com/ghpvc/?username=4yub1k&color=lightgrey">
+  <img src="https://komarev.com/ghpvc/?username=4yub1k&color=lightgrey">
 </p>
