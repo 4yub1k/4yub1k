@@ -72,7 +72,7 @@
 
 _These are the tools and languages i've worked with, haven't mentioned all but will love to discuss. And open to learn new tools or programming languages 🙂_ 
 
-<details><summary><b>Click:</b> For Organized GIT Repositorie</summary>
+<details><summary><b>Click:</b> For Organized GIT Repositories</summary>
         
 <!-- <p align="center">
     <h2>Organized GIT Repositories</h2>
