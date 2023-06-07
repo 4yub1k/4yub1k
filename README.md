@@ -3,7 +3,7 @@
 <p align="center">
   <ul>
     <li>My name is <b>Salah Ud Din</b> a.k.a <b>Ayubi</b>.</li>
-    <li>I'm Electrical Power Engineer, who is busy in learning programming.</li>
+    <li>I'm Electrical Engineer, who is busy in learning programming.</li>
     <li>Love's to code, and more code.</li>
     <li>My Hobbies inlcude Coding, E-Games, Photography, Ethical hacking, Reading and Learning about new technology, and Physics 🙂.</li>
   </ul>
@@ -13,7 +13,7 @@
   <a href="https://github.com/4yub1k"><img alt="Github-@4yub1k-green" src="https://user-images.githubusercontent.com/45902447/187991424-e4bcb85e-6ef4-48c5-9de4-131e51649ca2.svg"><a>
     <a href="https://salahuddin.org/"><img alt="WebPage-salahuddin.org-purple" src="https://user-images.githubusercontent.com/45902447/187993359-5b5da711-7383-4e7e-b621-f63fb6e0ffb6.svg"><a>
     <a href="https://medium.com/@4yub1k"><img alt="Medium-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/210225975-40f54bad-7608-4ba9-9a73-847174b74d58.svg"><a>
-  <a href="https://www.hackerrank.com/4yub1k"><img alt="HackerRank-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/187992171-7382b9d6-6c83-4de4-adac-0055f9a10116.svg"><a>
+  <a href="https://www.hackerrank.com/4yub1k"><img alt="HackerRank-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/187992171-7382b9d6-6c83-4de4-adac-0055f9a10116.svg?style=social"><a>
  <!-- <a href="https://www.youtube.com/@nerdyayubi"><img alt="HackerRank-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/210226235-437c2141-ffd1-49ea-84b6-3c16b69b6d98.svg"><a>
  -->
 </p>
@@ -72,10 +72,11 @@
 
 _These are the tools and languages i've worked with, haven't mentioned all but will love to discuss. And open to learn new tools or programming languages 🙂_ 
 
-
-<p align="center">
+<details><summary><b>Click:</b> For Organized GIT Repositorie</summary>
+        
+<!-- <p align="center">
     <h2>Organized GIT Repositories</h2>
-</p>
+</p> -->
 
 >NOTE : **My personal use Projects/scripts are not included.**
 <h3>Django/DjangoREST</h3>
@@ -83,6 +84,7 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 <li><a href="https://github.com/4yub1k/djblog">My Blog - Clean & Simple </a> </li>
   <li><a href="https://github.com/4yub1k/drf_api">DRF Poll API</a> </li>
   <li><a href="https://github.com/4yub1k/djAI">Django OpenAI</a> </li>
+  <li><a href="https://github.com/4yub1k/scientific-computing-with-python">Scientific Computing with Python</a> </li>
   <li><a href="https://github.com/4yub1k/movie-rest-api">Movies DB</a> </li>
   <li><a href="https://github.com/4yub1k/country-django-api">Countries information </a> </li>
   <li><a href="https://salahuddin.org">My Portfolio</a> </li>
@@ -152,7 +154,10 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/Tictactoe">TicTacToe</a> </li>
   <li><a href="https://github.com/4yub1k/Lambda-iteration">Lambda-iteration</a> </li>
 </uo>
+</details>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4yub1k&color=lightgrey">
+  <img src="https://img.shields.io/github/stars/4yub1k?style=social">
+ 
 </p>
