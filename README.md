@@ -3,17 +3,17 @@
 <p align="center">
   <ul>
     <li>My name is <b>Salah Ud Din</b> a.k.a <b>Ayubi</b>.</li>
-    <li>I'm Electrical Engineer, who is busy in learning programming.</li>
+    <li>I'm Electrical Engineer, who is busy in learning programming and technology related to Computers.</li>
     <li>Love's to code, and more code.</li>
     <li>My Hobbies inlcude Coding, E-Games, Photography, Ethical hacking, Reading and Learning about new technology, and Physics 🙂.</li>
   </ul>
 </p>
 
 <p align="center">
-  <a href="https://github.com/4yub1k"><img alt="Github-@4yub1k-green" src="https://user-images.githubusercontent.com/45902447/187991424-e4bcb85e-6ef4-48c5-9de4-131e51649ca2.svg"><a>
-    <a href="https://salahuddin.org/"><img alt="WebPage-salahuddin.org-purple" src="https://user-images.githubusercontent.com/45902447/187993359-5b5da711-7383-4e7e-b621-f63fb6e0ffb6.svg"><a>
-    <a href="https://medium.com/@4yub1k"><img alt="Medium-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/210225975-40f54bad-7608-4ba9-9a73-847174b74d58.svg"><a>
-  <a href="https://www.hackerrank.com/4yub1k"><img alt="HackerRank-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/187992171-7382b9d6-6c83-4de4-adac-0055f9a10116.svg?style=social"><a>
+  <a href="https://medium.com/@4yub1k"><img alt="Medium-@4yub1k-blue" src="https://img.shields.io/badge/Medium (My Blog)-%404yub1k-white?style=flat-square"><a>
+  <a href="https://github.com/4yub1k"><img alt="Github-@4yub1k-green" src="https://img.shields.io/badge/GitHub-%404yub1k-green?style=flat-square"><a>
+    <a href="https://salahuddin.org/"><img alt="WebPage-salahuddin.org-purple" src="https://img.shields.io/badge/Portfolio-%404yub1k-purple?style=flat-square"><a>
+  <a href="https://www.hackerrank.com/4yub1k"><img alt="HackerRank-@4yub1k-blue" src="https://img.shields.io/badge/HackerRank-%404yub1k-blue?style=flat-square"><a>
  <!-- <a href="https://www.youtube.com/@nerdyayubi"><img alt="HackerRank-@4yub1k-blue" src="https://user-images.githubusercontent.com/45902447/210226235-437c2141-ffd1-49ea-84b6-3c16b69b6d98.svg"><a>
  -->
 </p>
