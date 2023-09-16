@@ -3,7 +3,7 @@
 <p align="center">
   <ul>
     <li>My name is <b>Salah Ud Din</b> a.k.a <b>Ayubi</b>.</li>
-    <li>I'm Electrical Engineer, who is busy in learning programming, technology related to Computers, and Electrcial Engineering.</li>
+    <li>I'm Electrical Engineer, who is busy in learning programming, technology related to Computers, and Electrical Engineering.</li>
     <li>Love's to code, and more code.</li>
     <li>My Hobbies inlcude Coding, E-Games, Photography, Ethical hacking, Reading and Learning about new technology, and Physics 🙂.</li>
   </ul>
