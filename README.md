@@ -3,7 +3,7 @@
 <p align="center">
   <ul>
     <li>My name is <b>Salah Ud Din</b> a.k.a <b>Ayubi</b>.</li>
-    <li>I'm Electrical Engineer, who is busy in learning programming and technology related to Computers.</li>
+    <li>I'm Electrical Engineer, who is busy in learning programming, technology related to Computers, and Electrcial Engineering.</li>
     <li>Love's to code, and more code.</li>
     <li>My Hobbies inlcude Coding, E-Games, Photography, Ethical hacking, Reading and Learning about new technology, and Physics 🙂.</li>
   </ul>
@@ -72,7 +72,7 @@
 
 _These are the tools and languages i've worked with, haven't mentioned all but will love to discuss. And open to learn new tools or programming languages 🙂_ 
 
-<details><summary><b>Click:</b> For Organized GIT Repositories</summary>
+<details><summary><b>CLICK:</b> For Organized GIT Repositories</summary>
         
 <!-- <p align="center">
     <h2>Organized GIT Repositories</h2>
@@ -81,7 +81,8 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 >NOTE : **My personal use Projects/scripts are not included.**
 <h3>Django/DjangoREST</h3>
 <uo>
-<li><a href="https://github.com/4yub1k/djblog">My Blog - Clean & Simple </a> </li>
+  <li><a href="https://github.com/4yub1k/djblog">My Blog - Clean & Simple </a> </li>
+  <li><a href="https://github.com/4yub1k/djMedium">Dj Medium - Contents</a> </li>
   <li><a href="https://github.com/4yub1k/drf_api">DRF Poll API</a> </li>
   <li><a href="https://github.com/4yub1k/djAI">Django OpenAI</a> </li>
   <li><a href="https://github.com/4yub1k/scientific-computing-with-python">Scientific Computing with Python</a> </li>
@@ -95,10 +96,13 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
   <li><a href="https://github.com/4yub1k/captive-portal">Captive Portal</a> </li>
 </uo>
 
-<h3>Python/PyQt5/Tkinter/Kivy</h3>
+<h3>Python/PyQt5/Tkinter/Kivy/Embedded</h3>
 <uo>
   <li><a href="https://github.com/4yub1k/kivy-openai">Open AI Kivy Mobile App</a> </li>
-  <li><a href="https://github.com/4yub1k/simple-bar">Simple Bar</a> </li>
+  <li><a href="https://github.com/4yub1k/simple-bar">PyPi - Simple Bar</a> </li>
+  <li><a href="https://github.com/4yub1k/rasp-modules">PyPi - Modules for RaspberryPI</a> </li>
+  <li><a href="https://github.com/4yub1k/3-phase-voltmeter-raspberryPI">Measure 3 Phase Voltage - RaspberryPI</a> </li>
+  <li><a href="https://github.com/4yub1k/3-phase-voltmeter">Measure 3 Phase Voltage - Arduino</a> </li>
   <li><a href="https://github.com/4yub1k/database-dummy-data">Dummy DB Generator</a> </li>
   <li><a href="https://github.com/4yub1k/scan-site">Site Scanner/Enumeration</a> </li>
   <li><a href="https://github.com/4yub1k/Extending-C">Ctypes/C-PythonAPI Module</a> </li>
