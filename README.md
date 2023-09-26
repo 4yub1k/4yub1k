@@ -34,6 +34,8 @@
 ![R language](https://user-images.githubusercontent.com/45902447/189513651-2467a782-58c1-4bf6-aeaf-78622b33529a.png)
 
 #### Tools and Languages:
+![icons8-raspberry-pi-32](https://github.com/4yub1k/4yub1k/assets/45902447/18cdeea1-fb35-46a5-a754-80bf73f099fe)
+![icons8-arduino-32](https://github.com/4yub1k/4yub1k/assets/45902447/7a5fe480-c669-41b5-b5e2-37623576722a)
 ![python-32](https://user-images.githubusercontent.com/45902447/183979822-27f9f41f-63fe-47fa-8709-2cfa6714a936.png)
 ![django-32](https://user-images.githubusercontent.com/45902447/183980088-6288e8b5-fd51-4ef6-97b8-368110676858.png)
 ![matlab-32](https://user-images.githubusercontent.com/45902447/183980369-6368495c-ef11-4385-b6dc-ca991da7a4fb.png)
