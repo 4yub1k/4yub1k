@@ -99,6 +99,8 @@ _These are the tools and languages i've worked with, haven't mentioned all but w
 
 <h3>Python/PyQt5/Tkinter/Kivy/Embedded</h3>
 <uo>
+  <li><a href="https://github.com/4yub1k/boost_converter_raspberryPI">Boost Converter (PID Controller)</a> </li>
+  <li><a href="https://github.com/4yub1k/pwm_simulator">Advance PWM Signal Simulator and Generator (GUI)</a> </li>
   <li><a href="https://github.com/4yub1k/kivy-openai">Open AI Kivy Mobile App</a> </li>
   <li><a href="https://github.com/4yub1k/simple-bar">PyPi - Simple Bar</a> </li>
   <li><a href="https://github.com/4yub1k/rasp-modules">PyPi - Modules for RaspberryPI</a> </li>
